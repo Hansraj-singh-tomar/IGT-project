@@ -1,0 +1,17 @@
+.hero-two {
+    /* background-color: aqua; */
+    flex: 1;
+    position: relative;
+}
+
+.img1 {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.img2 {
+    position: absolute;
+    top: 25px;
+    left: 100px;
+}

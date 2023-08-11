@@ -1,0 +1,11 @@
+.play-btn{
+    position: relative;
+}
+
+.play-img{
+    position: absolute;
+    top: 28px;
+    left: 33px;
+}
+
+

@@ -1,0 +1,32 @@
+.accordion {
+    border-radius: 4px;
+    width: 100%;
+    border-bottom: 1px solid rgba(229, 236, 244, 1);
+}
+
+.accordion-header {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.accordion-header h3 {
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: -0.5px;
+    text-align: left;
+    margin-left: 10px;
+}
+
+.accordion-content p {
+    padding: 8px 0 0 40px;
+    font-family: DM Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: left;
+}

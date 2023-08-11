@@ -1,0 +1,31 @@
+.tutorial-container {
+    margin-top: 200px;
+    width: 100%;
+    max-width: 1100px;
+    margin: 200px auto auto auto;
+}
+
+.tutorial-title {
+    font-family: DM Sans;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 2.0999999046325684px;
+    color: #EF9E48;
+    text-align: center;
+}
+
+.tutorial-title-2 {
+    font-family: DM Sans;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: -1.5px;
+    text-align: center;
+}
+
+.cart-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

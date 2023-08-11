@@ -1,0 +1,29 @@
+.help-container {
+    width: 100%;
+    max-width: 800px;
+    text-align: center;
+    margin: 10% auto 2% auto;
+}
+
+.help-title {
+    font-family: DM Sans;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 2.0999999046325684px;
+    color: #EF9E48;
+    text-align: center;
+}
+
+.help-title-2 {
+    font-family: DM Sans;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: -1.5px;
+    text-align: center;
+}
+
+.accordion-container {
+    margin-top: 5%;
+}

@@ -1,0 +1,23 @@
+.plan-list-cart {
+    flex: 1;
+    background: linear-gradient(0deg, #F3F4F5, #F3F4F5);
+    border: 1px solid rgba(243, 244, 245, 1);
+}
+
+.plan-cart-h3 {
+    font-family: DM Sans;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: -0.550000011920929px;
+    text-align: left;
+}
+
+.plan-cart-p {
+    font-family: DM Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+}

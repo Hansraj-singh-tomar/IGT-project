@@ -1,0 +1,51 @@
+.work-cart-containt {
+    width: 260px;
+    height: 275px;
+    /* border: 2px solid black; */
+    margin-top: 60px;
+}
+
+.work-cart-logo-arrow {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cart-logo {
+    background: rgba(255, 255, 255, 1);
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    box-shadow: 0px 14px 20px 0px rgba(76, 119, 171, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.cart-logo-text {
+    font-family: Lexend Deca;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.work-cart-h2 {
+    font-family: DM Sans;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 34px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-bottom: 12px;
+}
+
+.work-cart-p {
+    font-family: DM Sans;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+}

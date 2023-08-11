@@ -1,0 +1,69 @@
+.plan-container {
+    width: 100%;
+    max-width: 1100px;
+    margin: 10% auto 10% auto;
+}
+
+.plan-title {
+    font-family: DM Sans;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 2.0999999046325684px;
+    color: #EF9E48;
+    text-align: center;
+}
+
+.plan-title-2 {
+    font-family: DM Sans;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: -1.5px;
+    text-align: center;
+}
+
+.monthly-annual-plan-btn {
+    width: 300px;
+    height: 60px;
+    background: rgba(247, 248, 251, 1);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 5px;
+    margin: 30px auto auto auto;
+}
+
+button {
+    border: none;
+    background: none;
+}
+
+.btn-1 {
+    width: 146px;
+    height: 50px;
+    font-family: DM Sans;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: -0.23999999463558197px;
+    text-align: center;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px 3px 3.799999952316284px 0px rgba(38, 78, 118, 0.1);
+}
+
+.btn-2 {
+    font-family: DM Sans;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: -0.23999999463558197px;
+    text-align: left;
+
+}
+
+.plan-list-container {
+    margin-top: 30px;
+    display: flex;
+    background-color: aqua;
+}
